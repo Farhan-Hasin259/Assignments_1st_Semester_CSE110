@@ -1,10 +1,4 @@
-                                          Ans.to the Q.No.-01
-
-
-
-
- Task_Identifier
-
+Task_Identifier
   
     (a) int hungry;     //Valid
     (b) int 2AB;        //Invalid (Because it started with number)
