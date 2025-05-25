@@ -1,9 +1,3 @@
-public class Lab{                                                          
-
-
-
-
-
 import java.util.Scanner;
 public class Largest_Number
 {
@@ -664,7 +658,7 @@ public class Compare_Numbers
     }
 }
 
-}
+
 
 
 
