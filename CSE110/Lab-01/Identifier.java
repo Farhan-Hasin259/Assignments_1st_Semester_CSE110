@@ -1,5 +1,4 @@
 Task_Identifier
-
   
     (a) int hungry;     //Valid
     (b) int 2AB;        //Invalid (Because it started with number)
