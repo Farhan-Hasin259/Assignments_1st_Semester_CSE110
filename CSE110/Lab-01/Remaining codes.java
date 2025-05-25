@@ -1,3 +1,5 @@
+//Calculating radius & circumference of Circle
+
 public class Task_radius_circumf
 {
     public static void main(String[] args) 
@@ -11,17 +13,9 @@ public class Task_radius_circumf
 }
 
 
-    
+                                                                             
 
-
-
-
-
-                                          
-                                           
-
-
-
+//Printing last two digits
 
 public class Task_lastTwoDigits 
 {
@@ -35,15 +29,8 @@ public class Task_lastTwoDigits
 
 
 
-
-
-
-
-
-
                                         
-
-
+//Converting units
 
 public class Task_inch_meter_conversion 
 {
@@ -59,15 +46,7 @@ public class Task_inch_meter_conversion
 
 
 
-
-
-
-
-
-
-
-
-
+//Swapping Values
 
 public class Task_swap_values_a
 {
@@ -83,13 +62,7 @@ public class Task_swap_values_a
 }
 
 
-
-
-
-                                                       
-
-
-
+ //2nd condition                                                   
 public class Task_swap_values_b 
 {
     public static void main(String[] args) 
@@ -105,18 +78,8 @@ public class Task_swap_values_b
 
 
 
-
-
-
-
-
-
-
-                                            
-
-
-
-
+                                        
+//Converting year, month and day
 
 public class Task_year_day_conversion 
 {
@@ -133,15 +96,8 @@ public class Task_year_day_conversion
 
 
 
-
-
-
-
-
-
-
-                                             
-
+                                            
+//Solving Equation
 
 public class Task_Equation 
 {
@@ -157,16 +113,8 @@ public class Task_Equation
 
 
 
-
-
-
-
-
-
-                                             
-
-
-
+                                            
+//Creating multiplication table
 
 public class Task_Multi_Table
 {
@@ -198,15 +146,8 @@ public class Task_Multi_Table
 
 
 
-
-
-
-
-
-
-
                                              
-
+//Sum by given equation
 
 public class Task_sum_positive_numbers
 {
@@ -222,16 +163,8 @@ public class Task_sum_positive_numbers
 
 
 
-
-
-
-
-
-
-                                            
-
-
-
+                                        
+//Finding value of trigonometric angle
 
 public class Task_Trigonometry
 {
@@ -255,18 +188,7 @@ public class Task_Trigonometry
 
 
 
-
-
-
-      
-
-
-
-
-
-                                             
-
-
+//Getting only first and last digit
 
 public class Task_Student_ID 
 {
@@ -283,15 +205,8 @@ public class Task_Student_ID
 
 
 
-
-
-
-
-
-
                                              
-
-
+//Getting bike velocity
 
 public class Task_BikeVelocity
 {
@@ -308,18 +223,8 @@ public class Task_BikeVelocity
 
 
 
-
-
-
-
-
-
-
-
                                               
-
-
-
+//Getting area and circumference of Hexagon
 
 public class Task_Hexa_Calc
 {
